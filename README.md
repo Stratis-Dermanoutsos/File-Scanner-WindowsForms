@@ -1,20 +1,33 @@
 # File-Scanner-WindowsForms
 
+This is a simple app that allows the user to scan their system for specific **folders**/**files** or even **string inputs** in their files.
 
-This is a simple app that allows the user to scan their system for specific <b>folders</b>/<b>files</b> or even <b>string inputs</b> in their files.
+## How to use
 
-### How to use:
 * Compile with Visual Studio
 * Select a root directory
 * Type anything you wish to find
-    * <b>Folder</b>,
-    * <b>File</b> in that <b>Folder</b>
-    * <b>Content</b> (a certain word or phrase)
-* Press the "<b>Search</b>" button
+  * **Folder**,
+    * **File** in that **Folder**
+    * **Content** (a certain word or phrase)
+* Press the "**Search**" button
 
-<br>
+## Showcase
 
-###### For multiple contents, separate them with commas (,).
+![1](./Screenshots/1.png)
 
+Find a folder's path
+![2](./Screenshots/2.png)
 
-###### File name does not have to be fully typed with extension. Even a single word is valid input.
+Find files' paths
+![3](./Screenshots/3.png)
+
+Find specified content in all files of a folder
+![4](./Screenshots/4.png)
+
+Find specified contents of specific file in a certain folder
+![5](./Screenshots/5.png)
+
+For multiple contents, separate them with commas (,)
+
+File name does not have to be fully typed with extension. Even a single word is valid input
