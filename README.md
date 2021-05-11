@@ -8,8 +8,8 @@ This is a simple app that allows the user to scan their system for specific **fo
 * Select a root directory
 * Type anything you wish to find
   * **Folder**,
-    * **File** in that **Folder**
-    * **Content** (a certain word or phrase)
+  * **File** in that **Folder** or any **Folder** of inside the **Root directory**
+  * **Content** (a certain word or phrase)
 * Press the "**Search**" button
 
 ## Showcase
